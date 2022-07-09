@@ -24,4 +24,4 @@ An understanding of git version control and proper notation using the following 
 - git push
 
 ### Conclusion:
-I have some previous HTML experience from many, many years ago, and this project was a great refresher. It was quite enjoyable, has energized me to continue with The Odin Project's curriculum, and I'm looking forward to revisiting this project once I gain more experience with HTML and also once I dip my toes in CSS.
+I have some previous HTML experience from many, many years ago, and this project was a great refresher. It was quite enjoyable, has energized me to continue with The Odin Project's curriculum, and I'm looking forward to revisiting this project once I gain more experience with HTML and also once I dip my toes in CSS. Here's to the first steps on the path to becoming a web developer!
