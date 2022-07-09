@@ -1,12 +1,20 @@
 # The Odin Project Foundations Project 1 - Recipes
+<<<<<<< HEAD
 ### Description and Purpose:
+=======
+###Description and Purpose:
+>>>>>>> origin
 This repository contains the first project of The Odin Project's Foundations curriculum. The purpose of which is to demonstrate a working knowledge of HTML basics. The final product is a simple website with an index linking to three recipes. Personally, I found the idea of using normal, everyday recipes to be quite dull. So, I decided to have a little fun with this project and use recipes that are a bit more... peculiar.
 
 Each recipe required appropriate headers for each section, an image, a multi-paragraph description, an unordered list of ingredients, and an ordered list of instructions. I went slightly further than stipulated in the project's requirements and included blockquotes, italic/bold text when appropriate, and a back button on each recipe to return to the index.
 
 Another purpose of this project was to practice proper version control through using a git workflow with proper timing and notation of commits.
 
+<<<<<<< HEAD
 ### Skills Demonstrated:
+=======
+###Skills Demonstrated:
+>>>>>>> origin
 An understanding of the following html concepts and elements:
 - General HTML boilerplate (DOCTYPE, charsets, head, body, etc)
 - Headers (h1, h2, etc)
